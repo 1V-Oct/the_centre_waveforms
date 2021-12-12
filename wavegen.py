@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# This is simple generator for simple waveforms to be used with The Centre
+# (C)2021 1V/Oct
+# Free to be used anwhere you want and how you want.
+
 import numpy as np
 from scipy.io import wavfile
 from scipy import signal
