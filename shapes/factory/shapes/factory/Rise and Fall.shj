@@ -1,0 +1,19 @@
+{
+  "author": "Duddie",
+  "name": "Rise and Fall",
+  "num_points": 3,
+  "points": [
+    0.0,
+    1.0,
+    0.5,
+    0.0,
+    1.0,
+    1.0
+  ],
+  "powers": [
+    2.5,
+    -2.5,
+    0.0,
+  ],
+  "smooth": false
+}
